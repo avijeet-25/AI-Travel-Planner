@@ -1,0 +1,8 @@
+# AI Travel Planner with Streamlit
+
+This project is a Streamlit-based web application that uses multiple AI agents to recommend:
+
+- The best months to visit a location (weather-based).
+- Personalized hotel recommendations (via sentence embeddings).
+- A complete day-by-day travel itinerary (via Gemini 2.5 flash).
+
