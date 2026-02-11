@@ -16,6 +16,8 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false" # Stops common warning
 import logging
 logging.getLogger("transformers").setLevel(logging.ERROR) # Hides the BERT warnings
 
+api_key = os.getenv("GEMINI_API_KEY")
+
 
 class WeatherAnalysisAgent:
       def __init__(self):
