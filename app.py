@@ -36,7 +36,7 @@ class WeatherAnalysisAgent:
      
 class HotelRecommenderAgent:
       def __init__(self):
-           self.encoder = SentenceTransformer('all-MiniLM-L6-v2')
+           self.encoder = SentenceTransformer('paraphrase-albert-small-v2')
            self.hotel_db = []
            self.hotels_embeddings = None
 
