@@ -1,6 +1,6 @@
 # AI Travel Planner with Streamlit
 
-Project Link - https://ai-travel-planner-niqj.onrender.com
+Project Link - https://avijeet7-ai-travel-planner.hf.space
 
 This project is a Streamlit-based web application that uses multiple AI agents to recommend:
 
